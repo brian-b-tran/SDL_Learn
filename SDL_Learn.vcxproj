@@ -147,25 +147,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="bomb.h" />
-    <ClInclude Include="Collisionh.h" />
-    <ClInclude Include="game.h" />
-    <ClInclude Include="GameObject.h" />
-    <ClInclude Include="ScoreBox.h" />
-    <ClInclude Include="Texture.h" />
-    <ClInclude Include="Transform.h" />
-    <ClInclude Include="Vector2D.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="bomb.cpp" />
-    <ClCompile Include="Collisionh.cpp" />
-    <ClCompile Include="game.cpp" />
-    <ClCompile Include="GameObject.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="ScoreBox.cpp" />
-    <ClCompile Include="Texture.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
