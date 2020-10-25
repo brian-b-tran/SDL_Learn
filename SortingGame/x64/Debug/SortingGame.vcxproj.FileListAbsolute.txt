@@ -1,0 +1,2 @@
+F:\Git\Game\SortingGame\x64\Debug\SortingGame.exe
+F:\Git\Game\SortingGame\x64\Debug\SortingGame.pdb

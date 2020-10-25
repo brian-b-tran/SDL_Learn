@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  MainSort.cpp
+F:\Git\Game\SortingGame\MainSort.cpp(5,9): warning C4101: 'FRAME_START': unreferenced local variable
+F:\Git\Game\SortingGame\MainSort.cpp(6,6): warning C4101: 'FRAME_TIME': unreferenced local variable
+  Generating Code...
+  SortingGame.vcxproj -> F:\Git\Game\SortingGame\x64\Debug\SortingGame.exe
